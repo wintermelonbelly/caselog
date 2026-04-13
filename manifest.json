@@ -1,0 +1,22 @@
+{
+  "name": "名侦探LMJ CaseLog",
+  "short_name": "LMJ CaseLog",
+  "description": "侦探风格每日待办与习惯养成工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#d4a853",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
