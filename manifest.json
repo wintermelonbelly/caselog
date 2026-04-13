@@ -1,6 +1,6 @@
 {
-  "name": "名侦探LMJ CaseLog",
-  "short_name": "LMJ CaseLog",
+  "name": "名侦探 CaseLog",
+  "short_name": "CaseLog",
   "description": "侦探风格每日待办与习惯养成工具",
   "start_url": "./index.html",
   "display": "standalone",
