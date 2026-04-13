@@ -6,7 +6,7 @@
   "scope": "/caselog/",
   "display": "standalone",
   "background_color": "#0d1117",
-  "theme_color": "#0d1117",
+  "theme_color": "#d4a853",
   "orientation": "portrait",
   "icons": [
     {
